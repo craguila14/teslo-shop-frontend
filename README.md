@@ -9,6 +9,8 @@ Teslo Shop es una aplicación de comercio electrónico desarrollada con Angular.
 
 ## 📸 Vista previa
 ![Teslo Shop](teslo-shop.png)
+
+## 📸 Vista previa panel administrativo
 ![Panel de administración](teslo-shop-admin.png)
 
 ---
